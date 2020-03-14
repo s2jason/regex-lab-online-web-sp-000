@@ -17,8 +17,3 @@ end
 def valid_phone_number?(phone)
   phone.match(/\b\d{3}.?\d{3}.?\d{4}\b/)
 end
-
-#"i wondered why the baseball was getting bigger. Then it hit me."
-
-#"28894546", "(718)891-13135", "234 43 9978", "(800)IloveNY"
-#valid_phone_number?("28894546", "(718)891-13135", "234 43 9978", "(800)IloveNY")
