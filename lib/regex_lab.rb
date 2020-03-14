@@ -21,3 +21,5 @@ end
 def valid_phone_number?(phone)
   text.scan(/b\d{3}.?\d{3}.?\d{4}\b/)
 end
+
+"i wondered why the baseball was getting bigger. Then it hit me."
