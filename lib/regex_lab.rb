@@ -15,7 +15,7 @@ def first_word_capitalized_and_ends_with_punctuation?(text)
 end
 
 def valid_phone_number?(phone)
-  text.scan(/b\d{3}.?\d{3}.?\d{4}\b/)
+  text.scan(/\b\d{3}.?\d{3}.?\d{4}\b/)
 end
 
 #"i wondered why the baseball was getting bigger. Then it hit me."
