@@ -20,5 +20,5 @@ end
 
 #"i wondered why the baseball was getting bigger. Then it hit me."
 
-"28894546", "(718)891-13135", "234 43 9978", "(800)IloveNY"
-valid_phone_number?("28894546", "(718)891-13135", "234 43 9978", "(800)IloveNY")
+#"28894546", "(718)891-13135", "234 43 9978", "(800)IloveNY"
+#valid_phone_number?("28894546", "(718)891-13135", "234 43 9978", "(800)IloveNY")
