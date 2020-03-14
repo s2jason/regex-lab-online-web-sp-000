@@ -18,5 +18,5 @@ def valid_phone_number?(phone)
   if text.scan (/b\d{3}.?\d{3}.?\d{4}\b/)
     return true
   else
-    return false1
+    return false
 end
